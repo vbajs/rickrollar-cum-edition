@@ -1,0 +1,7 @@
+{
+    "name": "RickRollar",
+    "description": "Turns every video into a rickroll (or any video of your choice via settings): cum edition",
+    "author": "vbajs",
+    "file": "src/index.js",
+    "license": "BSD-3"
+  }  
