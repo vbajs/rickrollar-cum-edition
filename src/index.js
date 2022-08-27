@@ -59,7 +59,7 @@ function normalPatching() {
 };
 
 export async function onLoad() {
-    if (Settings.SurpriseMe = true) {
+    if (Settings.SurpriseMe  != false) {
         surprisePatching()
     } else {
         normalPatching()
